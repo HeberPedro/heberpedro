@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I'm a Front-End Developer Passionate about the best web and mobile development technologies. I have experience with projects using JavaScript, Typescript, NodeJS, ReactJS, and React Native. I'm also studying Computer Engineering at [IFSP](https://www.ifsp.edu.br/) (Piracicaba, SP).
-
 <div align="center">
     <a href="https://github.com/heberpedro">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heberpedro&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97&include_all_commits=true&count_private=true"/>
